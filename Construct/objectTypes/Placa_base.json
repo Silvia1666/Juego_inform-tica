@@ -1,0 +1,67 @@
+{
+	"name": "Placa_base",
+	"plugin-id": "Sprite",
+	"sid": 148601396063017,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "DragnDrop",
+			"name": "ArrastrarYSoltar",
+			"sid": 495619957661709
+		},
+		{
+			"behaviorId": "Pin",
+			"name": "Pegado",
+			"sid": 906433018351481
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 753,
+						"height": 808,
+						"originX": 0.7370517928286853,
+						"originY": 0.27103960396039606,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 8972098,
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Punto imagen 1",
+								"x": 0.8140770252324038,
+								"y": 0.29826732673267325
+							},
+							{
+								"name": "Punto imagen 2",
+								"x": 0.5272244355909694,
+								"y": 0.32301980198019803
+							},
+							{
+								"name": "Punto imagen 3",
+								"x": 0.4103585657370518,
+								"y": 0.7834158415841584
+							}
+						],
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 180688552752974,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
